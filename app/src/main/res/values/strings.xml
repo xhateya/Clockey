@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Clockey</string>
+    <string name="txt_hello">Hello,</string>
+    <string name="txt_welcome_to_clocky">Welcome to Clocky</string>
+    <string name="txt_date">Wed,02 February 2006</string>
+    <string name="txt_time1">09.30</string>
+    <string name="txt_date1">Sun, 14 Feb</string>
+    <string name="txt_set">Set</string>
+    <string name="txt_one_time_alarm">One Time Alarm</string>
+    <string name="txt_set_date">Set Date</string>
+    <string name="txt_note">Note</string>
+    <string name="txt_input_note">Input Note</string>
+    <string name="txt_add_alarm">Add Alarm</string>
+    <string name="txt_cancel">Cancel</string>
+    <string name="txt_set">Set</string>
+    <string name="txt_datee">Date</string>
+    <string name="txt_repeat_time_alarm">Repeat Time Alarm</string>
+    <string name="txt_set_time">Set Time</string>
+    <string name="txt_set_time">Set Time</string>
+    <string name="txt_time">Time</string>
+    <string name="txt_05_59">05.59</string>
+</resources>
